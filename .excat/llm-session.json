@@ -1,0 +1,19 @@
+{
+  "version": "1.0",
+  "sessionId": "d1b9b399-5d06-431b-b5db-7c68390397fb",
+  "chatHistory": [
+    {
+      "role": "user",
+      "content": "hi",
+      "timestamp": 1765359641537
+    },
+    {
+      "role": "assistant",
+      "content": "Hi! I'm here to help you with AEM content authoring and management. How can I assist you today?",
+      "timestamp": 1765359647406
+    }
+  ],
+  "currentTodos": [],
+  "activeSubAgents": [],
+  "savedAt": 1765359647415
+}
